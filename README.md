@@ -41,5 +41,5 @@ This project automates LinkedIn post creation using n8n 🤖. It collects user i
 - 🗓️ Scheduling posts in advance
 
 ## 📧 Contact
-For any queries, feel free to reach out via email: **[Your Email Here]**
+For any queries, feel free to reach out via email: **anshmishra3721@gmail.com**
 
